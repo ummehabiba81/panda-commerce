@@ -1,0 +1,56 @@
+.custom-bg-color{
+    background-color: #fceae8;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.custom-text-color{
+    color: #FF136F;
+}
+.bg-watch{
+    background-color: orange;
+    color: white;
+}
+.bg-bag{
+    background-color: #FF136F;
+    color: white;
+}
+.bg-shoes{
+    background-color: blue;
+    color: white;
+}
+.buy-now-black-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.email-width{
+    width: 400px;
+}
+.send-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    padding: 10px 30px;
+    border: none;
+}
+.email-button{
+    width: 600px;
+    border: 0;
+    border-radius: 5px;
+    margin-right: -90px;
+    color:gainsboro;
+    
+}
+.search-width{
+    width: 550px;
+}
+.fa-magnifying-glass{
+    color: lightgray;
+    margin-left: -40px;
+}
